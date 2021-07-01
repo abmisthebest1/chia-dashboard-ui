@@ -1,11 +1,11 @@
-export const discordClientId = '860196793471598602';
+export const discordClientId = null;
 // export const githubClientId = '16645067d609075c61e4';
-export const githubClientId = null;
+export const githubClientId = 'a25d8dfc0fccfca58e2b';
 // export const googleClientId = '444774972531-atkv3k11o8satjic5m88ldv16beri3rf.apps.googleusercontent.com';
-export const googleClientId = '444774972531-atkv3k11o8satjic5m88ldv16beri3rf.apps.googleusercontent.com';
-export const apiBaseUrl = 'https://vinlexpool.pages.dev/api';
-export const enablePeriodicUpdates = true;
-export const requestDiscordGuildPermission = true;
+export const googleClientId = null;
+export const apiBaseUrl = 'https://vinlex.tech//api';
+export const enablePeriodicUpdates = false;
+export const requestDiscordGuildPermission = false;
 
 // DEV
 // export const githubClientId = 'f5cf9bfb6113a5fee63c';
